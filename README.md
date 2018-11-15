@@ -23,7 +23,7 @@ To version images, you can tag it with a x.y version and also assign the latest 
 
 ```sh
 docker tag bpi/nodejs_server bpi/nodejs_server:<x.y>
-docker tag healbpithyhealth/nodejs_server bpi/nodejs_server:latest
+docker tag bpi/nodejs_server bpi/nodejs_server:latest
 ```
 
 
